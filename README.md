@@ -14,5 +14,6 @@ Directly transferring the 2D techniques to 3D scene generation is challenging du
 
 ## NEWS
 
+- [2023/11/22] Our work is now on [arXiv](https://arxiv.org/abs/2311.12085).
 - [2023/11/20] Official repo is created, code will be released soon, access our [Project Page](https://yuheng.ink/project-page/pyramid-discrete-diffusion/) for more details.
 
