@@ -1,6 +1,6 @@
 <img src="https://yuheng.ink/project-page/pyramid-discrete-diffusion/images/pyramid_logo.png" height="70px" align="left">
 
-# Pyramid Discrete Diffusion Model for Fine 3D Large Scene Generation
+# Pyramid Diffusion for Fine 3D Large Scene Generation
 
 [Yuheng Liu](https://yuheng.ink/)<sup>1,2</sup>, [Xinke Li](https://shinke-li.github.io/)<sup>3</sup>, [Xueting Li](https://sunshineatnoon.github.io/)<sup>4</sup>, [Lu Qi](http://luqi.info/)<sup>5</sup>, [Chongshou Li](https://scholar.google.com.sg/citations?user=pQsr70EAAAAJ&hl=en)<sup>1</sup>, [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=en&oi=ao)<sup>5,6</sup>
 
