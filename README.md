@@ -2,7 +2,7 @@
 
 # Pyramid Diffusion for Fine 3D Large Scene Generation
 
-[Yuheng Liu](https://yuheng.ink/)<sup>1,2</sup>, [Xinke Li](https://shinke-li.github.io/)<sup>3</sup>, [Xueting Li](https://sunshineatnoon.github.io/)<sup>4</sup>, [Lu Qi](http://luqi.info/)<sup>5</sup>, [Chongshou Li](https://scholar.google.com.sg/citations?user=pQsr70EAAAAJ&hl=en)<sup>1</sup>, [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=en&oi=ao)<sup>5,6</sup>
+[ECCV 2024 Oral] [Yuheng Liu](https://yuheng.ink/)<sup>1,2</sup>, [Xinke Li](https://shinke-li.github.io/)<sup>3</sup>, [Xueting Li](https://sunshineatnoon.github.io/)<sup>4</sup>, [Lu Qi](http://luqi.info/)<sup>5</sup>, [Chongshou Li](https://scholar.google.com.sg/citations?user=pQsr70EAAAAJ&hl=en)<sup>1</sup>, [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=en&oi=ao)<sup>5,6</sup>
 
 <sup>1</sup>Southwest Jiaotong University, <sup>2</sup>University of Leeds, <sup>3</sup>City University of HongKong, <sup>4</sup>NVIDIA, <sup>5</sup>The University of Cailfornia, Merced, <sup>6</sup>Yonsei University
 
@@ -15,7 +15,8 @@ Diffusion models have shown remarkable results in generating 2D images and small
 
 ## NEWS
 
-- [2024/07/02] 🎉 Our work is accepted by ECCV 24.
+- [2024/08/12] 🎉 Our work has been accepted as <b>Oral Presentation</b>.
+- [2024/07/02] 🎉 Our work has been accepted by ECCV 24.
 - [2023/11/22] Our work is now on [arXiv](https://arxiv.org/abs/2311.12085).
 - [2023/11/20] Official repo is created, code will be released soon, access our [Project Page](https://yuheng.ink/project-page/pyramid-discrete-diffusion/) for more details.
 
