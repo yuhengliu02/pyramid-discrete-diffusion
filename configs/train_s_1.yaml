@@ -1,0 +1,66 @@
+# Experiment settings
+prev_stage: 'none'  # choices: none, s_1, s_2
+next_stage: 's_1'  # choices: s_1, s_2, s_3
+resume: false
+resume_path: ''
+generation_num: 10
+mode: 'train' # choices: train, inference, infinity_gen
+infer_data_source: 'dataset' # choices: dataset, generation
+
+# Scene settings
+prev_scene_path: ''
+scene_fusion_method: 'discard'  # choices: discard, force, vote
+mask_ratio: 0.0625
+infinite_ratio: 0.1875
+mask_prob: [0.25, 0.25, 0.25, 0.25]  # [0] for up, [1] for left, [2] for up and left, [3] for none
+infinity_size: [3, 2]
+
+# Data settings
+dataset: 'carla'  # choices: carla, kitti
+train_data_path: './data/CarlaSC_quantized_32_32_4/Cartesian/Train'
+quantized_train_data_path: ''
+infer_data_path: ''
+quantized_infer_data_path: ''
+data_argumentation: true
+
+# Hardware and distribution settings
+gpu: 0
+distribution: false
+num_node: 1
+node_rank: 0
+dist_url: 'tcp://localhost:29500'
+
+# Training parameters
+batch_size: 16
+num_workers: 8
+pin_memory: false
+epochs: 1000
+check_every: 100
+
+# Loss and optimization settings
+clip_value: null
+clip_norm: null
+recon_loss: false
+auxiliary_loss_weight: 0.0005
+optimizer: 'adamw'  # choices: adamw, sgd, etc.
+lr: 0.004
+warmup: null
+momentum: 0.9
+momentum_sqr: 0.999
+milestones: []
+gamma: 0.1
+
+# Model settings
+model_type: 'con'  # choices: uncon, con, l_vae, l_gen
+diffusion_steps: 100
+diffusion_dim: 32
+dp_rate: 0.0
+l_size: '32322'  # choices: 882, 16162, 32322
+init_size: 8
+l_attention: true
+vq_size: 50
+vqvae_path: ''
+
+# Logging and paths
+log_home: null
+exp_name: 'default'
