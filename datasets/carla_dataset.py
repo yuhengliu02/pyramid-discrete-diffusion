@@ -45,9 +45,6 @@ class CarlaDataset(Dataset):
         self.model_type = model_type
         self._scenes = sorted([os.path.join(scene, "cartesian") for scene in os.listdir(self._directory)])
 
-        # 调试模式
-        self._scenes = self._scenes[:1]
-
         self._num_scenes = len(self._scenes)
         self._num_frames_scene = []
         self._eval_labels = []
