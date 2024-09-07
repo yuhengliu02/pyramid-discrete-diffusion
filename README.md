@@ -41,8 +41,8 @@ For the main experiments in this work, we use the [CarlaSC](https://umich-curly.
 
 Pre-trained models are available as:
 
-- [Google Drive](https://drive.google.com/drive/folders/1qnpygkfKGlvO5mNgeETqn5xw9x5Mxcps?usp=sharing): still need some time to upload.
-- [BaiduNetdisk](https://pan.baidu.com/s/1Zhrd2yZSAMtUtMPW-If0Uw?pwd=pddm): still need some time to upload.
+- [Google Drive](https://drive.google.com/drive/folders/1qnpygkfKGlvO5mNgeETqn5xw9x5Mxcps?usp=sharing)
+- [BaiduNetdisk](https://pan.baidu.com/s/1Zhrd2yZSAMtUtMPW-If0Uw?pwd=pddm)
 
 ## Installation
 
