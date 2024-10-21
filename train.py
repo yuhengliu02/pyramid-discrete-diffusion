@@ -100,7 +100,7 @@ class Experiment(object):
                         context = prev_data_voxels
                     loss = self.model(next_data_voxels, context)
                     total_loss += loss.item()
-                    total_loss.backward() 
+                    loss.backward() 
                 average_loss = total_loss / num_sub_scenes
                 loss_to_add = average_loss
             elif self.args.prev_stage=='none' and self.args.next_stage=='s_1' and self.args.model_type=='con':
