@@ -14,6 +14,7 @@ Diffusion models have shown remarkable results in generating 2D images and small
 
 ## NEWS
 
+- [2025/04/04] **Evaluation**: Please submit the [form](https://docs.google.com/forms/d/e/1FAIpQLScjKR-G9fO8Xro6KYISgufdTI1uAZPd7AhAsDSaE7rUBC7XCg/viewform?usp=dialog) to obtain the evaluation code.
 - [2024/09/05] **Train** and **Inference** code has been released.
 - [2024/08/12] 🎉 Our work has been accepted as <b>Oral Presentation</b>.
 - [2024/07/02] 🎉 Our work has been accepted by ECCV 24.
@@ -255,6 +256,12 @@ python visualizer.py
 ```
 
 Next, you can use your keyboard's **left** and **right** arrows (`←`, `→`) to control the display of the visualized scene, and use the mouse to drag and view it from different angles.
+
+## Evaluation
+
+Due to ongoing development and research use, the evaluation code is not publicly released.
+
+To request access, please complete the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScjKR-G9fO8Xro6KYISgufdTI1uAZPd7AhAsDSaE7rUBC7XCg/viewform?usp=dialog). If your request is approved, the code will be sent to the email address you provide within **5–10 business days**.
 
 ## Acknowledgement
 
