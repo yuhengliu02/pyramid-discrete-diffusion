@@ -39,6 +39,7 @@ If you find our work useful, please cite:
 For the main experiments in this work, we use the [CarlaSC](https://umich-curly.github.io/CarlaSC.github.io/) dataset, an open-source outdoor road radar point cloud dataset. You don’t need to download the full version of the dataset, only Finer Resolution Part should be downloaded.
 
 - [CarlaSC: Cartesian Finer Dataset](https://www.dropbox.com/s/9d78c3hqxf6iwvy/eval_fine.zip?e=1&dl=0)
+- [Alternate Links](https://curly-dataset-public.s3.us-east-2.amazonaws.com/CARLA/eval_fine.zip)
 
 Pre-trained models are available as:
 
